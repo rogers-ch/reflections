@@ -1,0 +1,35 @@
+Corey's Version Control Lesson 1 Reflections
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It was helpful because I could see each of the differences right beside one another.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having access to earlier versions means you can grab code from any version to add to future projects.  
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    It's good to have control over when the changes are saved, but it's bad if you don't save changes enough or you forget to save an important change.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git allows saving multiple files b/c it is designed for coding projects, where many files are related for the same project.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    You can use the log command to review all previous commits to find the right one, and then you can use the diff command to compare the two versions to see the differences.  
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You can make major changes with the assurance that you can revert back to a prior version that works if necessary.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Version control for coding projects.
