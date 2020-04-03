@@ -11,9 +11,13 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	
+	You can check the changes in your files in the staging area against your files in the working directory and the files in the most recent commit in the repository so you can clearly see the differences.  You can choose which files in the staging area you want to actually commit, and you can remove files from the staging area as well.
 
 What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+organized? How would branches help? 
+
+	If you want to try out a new feature, make major changes while keeping a functional version of the site, or try new ideas without the risk of breaking your site.  You can easily switch back to a different branch if something doesn't work.
 
 How do the diagrams help you visualize the branch structure?
 
