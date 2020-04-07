@@ -1,1 +1,4 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+A remote repository allows multiple people to work on the project and all update the remote repository.  A remote repository also provides a backup in case something happens to your local machine, and it allows you to work on a project from multiple machines.  
+
